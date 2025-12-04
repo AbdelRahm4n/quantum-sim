@@ -1,6 +1,6 @@
 # Quantum Circuit Simulator
 
-A production-quality quantum circuit simulator with a Python/FastAPI backend and React/TypeScript/Three.js frontend. All quantum operations are implemented from scratch using NumPy - no Qiskit or external quantum libraries.
+A quantum circuit simulator with a Python/FastAPI backend and React/TypeScript/Three.js frontend. All quantum operations are implemented from scratch using NumPy - no Qiskit or external quantum libraries.
 
 ## Features
 
